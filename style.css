@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(34, 34, 34);
+    color:white;
+    font-family: poppinsregular;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.cabeçalho-logo {
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 70px;
+}
+
+.title{
+    flex-direction: column;
+    margin-left: 1.5em;
+}
+
+
+li{
+    display: inline-block;
+    margin: 20px;
+}
+
+a{
+    color: white;
+}
+
+
+main{
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+}
+
+h1{
+    font-weight: 200;
+}
+
+h2{
+    font-weight: 200;
+    
+}
+
+
+
+p{
+    line-height: 25px;
+    max-width: 700px;
+    font-family: poppinslight;
+}
+
+img{
+    width: 250px;
+}
+
+
+
+
+
