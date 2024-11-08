@@ -59,12 +59,22 @@ p{
     line-height: 25px;
     max-width: 700px;
     font-family: poppinslight;
+    
 }
 
 img{
     width: 250px;
+    margin: 10%;
+    align-items: center;
+}
+.centralizado {
+    text-align: center;
 }
 
+.imagem-centralizada {
+    display: block;
+    margin: 0 auto;
+}
 
 
 
